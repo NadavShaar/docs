@@ -30,7 +30,7 @@ From the root folder run:
 - Open the terminal and run: `npm login`.
 - Delete both `package-lock.json` files in the root and under the example folder (and commit).
 - Run: `npm run deploy`
-- If you wish to add q public access to the package run:
+- If you wish to add a public access to the package run:
 `npm publish --access public`
 otherwise run: `npm publish`
 
