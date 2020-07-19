@@ -11,8 +11,10 @@ In your local repository folder run:\
 `npx create-react-library <package-name>`
 
 #### open 2 terminals tabs
-- First-tab:\ `npm start`
-- Second-tab:\ `cd example && npm start`
+- First-tab:\ 
+`npm start`
+- Second-tab:\ 
+`cd example && npm start`
 After the process is done terminate both tabs process.
 
 // From the root run:
