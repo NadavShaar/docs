@@ -1,12 +1,13 @@
 # react-npm-publish-guide
 A guide to publish a react component to NPM.
 
-### prerequisites
+### Prerequisites
 - You should have accounts at github & npm.
 - choose your package name while making sure that the name is not taken (go to [NPM](https://www.npmjs.com/) and try to search for it).
 - create a git repo with the same name as the package.
 
-#### In your local repository folder run:
+### Setup
+In your local repository folder run:
 `npx create-react-library <package-name>`
 
 // open 2 terminals tabs
