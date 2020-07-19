@@ -10,9 +10,9 @@ A guide to publish a react component to NPM.
 In your local repository folder run:\
 `npx create-react-library <package-name>`
 
-// open 2 terminals tabs
-* First-tab: cd <package-name> && npm start
-* Second-tab: cd <package-name>/example && npm start
+##### open 2 terminals tabs
+- First-tab: npm start
+- Second-tab: cd example && npm start
 terminate both tabs process
 
 // From the root run:
