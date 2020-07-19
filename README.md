@@ -1,16 +1,19 @@
 # react-npm-publish-guide
 A guide to publish a react component in NPM.
 
+
 ## Prerequisites
 - You should have accounts at github & npm.
 - Choose your package name while making sure that the name is not taken (go to [NPM](https://www.npmjs.com/) and try to search for it).
 - Create a git repo with the same name as the package.
+
 
 ## Setup
 - In your local repositories folder run: `npx create-react-library <package-name>`
 - Navigate to the root folder and open 2 terminal tabs: 
 In the first tab run: `npm start`, and in the second tab run: `cd example && npm start`.
 - After the process is done terminate both tabs process.
+
 
 ## Connect to Github
 From the root folder run:
@@ -20,11 +23,13 @@ From the root folder run:
 
 `git push -u origin master`
 
+
 ## Updating the component and its demo page
 - Update the component file in `src/index.js`.
 - Create/update `README.md` in the root of the project.
 - Update `example/src` files to show a small demo page under github pages (to run: `cd example && npm start`).
 - Commit the changes.
+
 
 ## Deploy and publish to NPM
 - Open the terminal and run: `npm login`.
@@ -35,6 +40,7 @@ From the root folder run:
 otherwise run: `npm publish`
 
 ## *Done!!!*
+
 
 ### Your gitub page will be in:
 `https://<username>.github.io/<package-name>/`
