@@ -33,7 +33,7 @@ From the root folder run:
 
 
 ## Deploy and publish to NPM
-- Open the terminal and run: `npm login`.
+- Open the terminal and run: `npm login`, and enter your npm's login details.
 - Delete both `package-lock.json` files in the root and under the example folder (and commit).
 - Run: `npm run deploy`
 - If you wish to add a public access to the package run:
