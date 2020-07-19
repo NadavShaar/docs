@@ -34,7 +34,7 @@ From the root folder run:
 `npm publish --access public`
 otherwise run: `npm publish`
 
-#### Done!!!
+### Done!!!
 
 #### Your gitub page will be in:
 `https://<username>.github.io/<package-name>/`
