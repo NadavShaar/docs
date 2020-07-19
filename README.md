@@ -6,7 +6,7 @@ choose your package name while making sure that the name is not taken (go to htt
 create a git repo with the same name as the package
 
 // In your local repository folder run:
-npx create-react-library <package-name>
+<code>npx create-react-library <package-name><code>
 
 // open 2 terminals tabs
 * First-tab: cd <package-name> && npm start
