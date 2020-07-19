@@ -7,7 +7,7 @@ A guide to publish a react component to NPM.
 - create a git repo with the same name as the package.
 
 ### Setup
-In your local repository folder run:
+In your local repository folder run:\
 `npx create-react-library <package-name>`
 
 // open 2 terminals tabs
