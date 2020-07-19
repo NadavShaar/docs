@@ -43,6 +43,7 @@ otherwise run: `npm publish`
 
 #### Your gitub page will be in:
 `https://<username>.github.io/<package-name>/`
+If you see a 404 page then you might need to turn on github pages from the repo's setting.
 
 #### To add an image to a readme file:
 - Go to your github page, take a screenshot of the component and save it locally.
