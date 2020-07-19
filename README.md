@@ -10,7 +10,7 @@ A guide to publish a react component in NPM.
 
 ## Setup
 - In your local repositories folder run: `npx create-react-library <package-name>`
-you'll have some info to fill.
+(you'll have some info to fill).
 - Navigate to the root folder and open 2 terminal tabs: 
 In the first tab run: `npm start`, and in the second tab run: `cd example && npm start`.
 - After the process is done terminate both tabs process.
