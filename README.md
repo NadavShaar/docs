@@ -43,12 +43,10 @@ otherwise run: `npm publish`
 #### Done!!!
 
 #### Your gitub page will be in:
-https://<username>.github.io/<package-name>/
+`https://<username>.github.io/<package-name>/`
 
 #### To add an image to a readme file:
 - Go to your github page, take a screenshot of the component and save it locally.
 - Go to the repository and open a new issue, drag and drop the image to the new issue, 
-
 githb will upload and save the image and will translate it to a textual representation of it, 
-
 copy the text and paste it anywhere in the readme file (no need to save the issue!).
