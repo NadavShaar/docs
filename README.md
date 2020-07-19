@@ -1,5 +1,5 @@
 # react-npm-publish-guide
-A guide to publish a react component to NPM.
+A guide to publish a react component in NPM.
 
 ### Prerequisites
 - You should have accounts at github & npm.
