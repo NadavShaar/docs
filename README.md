@@ -12,7 +12,7 @@ A guide to publish a react component in NPM.
 In the first tab run: `npm start`, and in the second tab run: `cd example && npm start`.
 - After the process is done terminate both tabs process.
 
-#### Connect to Github
+### Connect to Github
 From the root folder run:
 
 `git remote add origin https://github.com/<username>/<package-name>.git`
@@ -20,13 +20,13 @@ From the root folder run:
 
 `git push -u origin master`
 
-#### Updating the component and its demo page
+### Updating the component and its demo page
 - Update the component file in `src/index.js`.
 - Create/update `README.md` in the root of the project.
 - Update `example/src` files to show a small demo page under github pages (to run: `cd example && npm start`).
 - Commit the changes.
 
-#### Deploy and publish to NPM
+### Deploy and publish to NPM
 - Open the terminal and run: `npm login`.
 - Delete both `package-lock.json` files in the root and under the example folder (and commit).
 - Run: `npm run deploy`
