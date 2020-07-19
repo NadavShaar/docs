@@ -16,9 +16,13 @@ In your local repository folder run:\
 
 After the process is done terminate both tabs process.
 
-// From the root run:
-git remote add origin https://github.com/<username>/<package-name>.git
-git push -u origin master
+#### Connect to Github
+From the root folder run:
+
+`git remote add origin https://github.com/<username>/<package-name>.git`
+
+
+`git push -u origin master`
 
 // update with your content
 update the component file in src/index.js
