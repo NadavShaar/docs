@@ -43,7 +43,7 @@ otherwise run: `npm publish`
 ## *Done!!!*
 
 
-### Your gitub page will be in:
+### Your github page will be in:
 `https://<username>.github.io/<package-name>/`
 
 If you see a 404 page then you might need to configure it from the repo's setting.
