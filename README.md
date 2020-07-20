@@ -1,6 +1,6 @@
 # react-npm-publish-guide
-![npm-logo](https://user-images.githubusercontent.com/8030614/87928258-31078f80-ca8d-11ea-9718-2dea1dbbb42d.png)
-![react-logo](https://user-images.githubusercontent.com/8030614/87928263-32d15300-ca8d-11ea-9c83-b5d4706e23b1.png)
+![npm-logo](https://user-images.githubusercontent.com/8030614/87928757-fc480800-ca8d-11ea-9236-510111db274c.png)
+![react-logo](https://user-images.githubusercontent.com/8030614/87928760-fce09e80-ca8d-11ea-927e-c2a3a3f1e9c8.png)
 A guide to publish a react component in NPM.
 
 
