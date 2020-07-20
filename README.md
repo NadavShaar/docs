@@ -1,5 +1,5 @@
-<img src="https://user-images.githubusercontent.com/8030614/87929178-b0e22980-ca8e-11ea-8aca-19bde6c8c4ef.png" width="50" />
-<img src="https://user-images.githubusercontent.com/8030614/87929180-b17ac000-ca8e-11ea-9f3e-075e8a9d0694.png" width="50" />
+<img src="https://user-images.githubusercontent.com/8030614/87929178-b0e22980-ca8e-11ea-8aca-19bde6c8c4ef.png" width="50" style="display: inline;" />
+<img src="https://user-images.githubusercontent.com/8030614/87929180-b17ac000-ca8e-11ea-9f3e-075e8a9d0694.png" width="50" style="display: inline;" />
 
 # react-npm-publish-guide
 A guide to publish a react component in NPM.
