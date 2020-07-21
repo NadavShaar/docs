@@ -42,7 +42,6 @@ otherwise run: `npm publish`
 
 ## *Done!!!*
 
-
 ### Your github page will be in:
 `https://<username>.github.io/<package-name>/`
 
