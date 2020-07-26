@@ -1,4 +1,4 @@
-# How to publish react component to NPM with github page
+# Publish react component to NPM (with github page)
 A guide to publish a react component in NPM.
 
 
