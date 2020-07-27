@@ -11,3 +11,6 @@
 - In repo's settings select `gh-pages branch` as sorce.
 
 ## *Done!!!*
+
+### Your github page will be in:
+`https://<username>.github.io/<package-name>/`
