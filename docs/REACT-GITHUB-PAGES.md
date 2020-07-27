@@ -6,7 +6,9 @@
 - Add the following scripts to `package.json`: `"predeploy": "npm run build"`, `"deploy": "gh-pages -d build"` 
   
   (`build` is the folder that contains the `bundle.js` file and it might be named dist in some cases).
-- Run `git remote add origin https://github.com/<username>/<repository-name>.git` or `git remote set-url origin https://github.com/<username>/<repository-name>.git` to update origin.
+- Run `git remote add origin https://github.com/<username>/<repository-name>.git` to add origin or 
+
+  `git remote set-url origin https://github.com/<username>/<repository-name>.git` to update origin.
 - Run `npm run build`.
 - Run `npm run publish`.
 - Commit and push repository.
