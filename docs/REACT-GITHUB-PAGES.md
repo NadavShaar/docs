@@ -2,7 +2,7 @@
 
 - Open a git repository.
 - Run: `npm install gh-pages --save-dev`.
-- Open `package.json' and add `homepage` set to `https://<username>.github.io/<repository-name>/`.
+- Open `package.json` and add `homepage` set to `https://<username>.github.io/<repository-name>/`.
 - Add the following scripts to `package.json`: 
   
   `"predeploy": "npm run build"`, 
