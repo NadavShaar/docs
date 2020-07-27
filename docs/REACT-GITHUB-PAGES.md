@@ -16,7 +16,7 @@
 - Run `npm run build`.
 - Run `npm run publish`.
 - Commit and push repository.
-- In repo's settings select `gh-pages branch` as sorce.
+- In repo's settings select `gh-pages branch` as source.
 
 ## *Done!!!*
 
