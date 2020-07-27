@@ -13,4 +13,4 @@
 ## *Done!!!*
 
 ### Your github page will be in:
-`https://<username>.github.io/<package-name>/`
+`https://<username>.github.io/<repository-name>/`
