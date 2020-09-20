@@ -1,6 +1,5 @@
 # Expo build
 - Run `npx expo-optimize`.
-- Run `expo build:web`.
-- Optional: Deploy to github-pages.
+- Run `expo build:web` (web / android / ios).
 
 ## *Done!!!*
