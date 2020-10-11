@@ -13,8 +13,8 @@
 - Run `git remote add origin https://github.com/<username>/<repository-name>.git` to add origin or 
 
   `git remote set-url origin https://github.com/<username>/<repository-name>.git` to update origin.
-- Run `npm run build`.
-- Run `npm run publish`.
+- Run `npm run predeploy`.
+- Run `npm run deploy`.
 - Commit and push repository.
 - In repo's settings select `gh-pages branch` as source.
 
